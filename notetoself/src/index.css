@@ -1,5 +1,18 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  text-align: center;
+  padding: 5%;
+}
+
+.note-input button, .note-input input {
+  margin: 12px 8px 8px;
+}
+
+.note {
+  width: 50%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-style: italic;
+  text-align: left;
+  padding: 8px;
+  margin: 30px auto;
 }
